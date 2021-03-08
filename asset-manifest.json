@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iwra-ex1-solution/static/css/main.2517f69a.chunk.css",
+    "main.js": "/iwra-ex1-solution/static/js/main.a7227f75.chunk.js",
+    "main.js.map": "/iwra-ex1-solution/static/js/main.a7227f75.chunk.js.map",
+    "runtime-main.js": "/iwra-ex1-solution/static/js/runtime-main.c72cf84c.js",
+    "runtime-main.js.map": "/iwra-ex1-solution/static/js/runtime-main.c72cf84c.js.map",
+    "static/js/2.c390f382.chunk.js": "/iwra-ex1-solution/static/js/2.c390f382.chunk.js",
+    "static/js/2.c390f382.chunk.js.map": "/iwra-ex1-solution/static/js/2.c390f382.chunk.js.map",
+    "index.html": "/iwra-ex1-solution/index.html",
+    "static/css/main.2517f69a.chunk.css.map": "/iwra-ex1-solution/static/css/main.2517f69a.chunk.css.map",
+    "static/js/2.c390f382.chunk.js.LICENSE.txt": "/iwra-ex1-solution/static/js/2.c390f382.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72cf84c.js",
+    "static/js/2.c390f382.chunk.js",
+    "static/css/main.2517f69a.chunk.css",
+    "static/js/main.a7227f75.chunk.js"
+  ]
+}
